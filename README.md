@@ -51,7 +51,8 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`+` or `-`**                  |          | Increase/Decrease the characters **font sizeY** *(vertical)*                                                      |
 | **`Ctrl` + `+`/`-`**            |          | Increase/Decrease the characters **font sizeX** *(horizontal)*                                                    |
 | **`Ctrl` + `Z`**                |          | Undo the **changes**                                                                                              |
-| **`M`**                         |          | Mirror the **sprite**                                                                                             |
+| **`M`**                         |          | Mirror the **sprite** *(horizontally)*                                                                            |
+| **`Ctrl` + `M`**                |          | Mirror the **sprite** *(vertically)*                                                                              |
 | **`Esc`**                       |          | Escape to the **menu** for `saving`, `importing`, `exiting`                                                       |
 
 ### If you click on the `HEX Color` it will be shown in `RGB mode`
