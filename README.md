@@ -54,6 +54,8 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`M`**                         |          | Mirror the **sprite**                                                                                             |
 | **`Esc`**                       |          | Escape to the **menu** for `saving`, `importing`, `exiting`                                                       |
 
+### If you click on the `HEX Color` it will be shown in `RGB mode`
+
 ------
 
 ### Configuration Mode
