@@ -1,6 +1,6 @@
 # Sprite Designer
 
-A tool for designing sprites mostly for games.
+A tool for designing sprites mostly for games but using only the **Terminal**.
 
 
 ## Features
