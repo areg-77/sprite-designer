@@ -10,7 +10,13 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 - Adding Sound effects to the Keyframes (see in [Sound effects](#sound-effects))
 - Defining parts of the sprite with Collisions or Triggers(with channels) (see in [Configuration Mode](#configuration-mode))
 
-### Check out the [Examples](#examples) for better learning
+------
+
+### Examples
+
+![city animation](https://github.com/user-attachments/assets/819cb2c7-351c-4019-bb2c-d09717df0679)
+
+![smiley](https://github.com/user-attachments/assets/e2ee391b-ec52-4c90-a1e3-eaba3f8aeaca)
 
 ------
 
@@ -100,11 +106,3 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`RCtrl` + `Space`** | Remove a directory from the beggining of the **path** |
 
 ### NOTE: Only `*.wav` files are accepted
-
-------
-
-### Examples
-![city animation](https://github.com/user-attachments/assets/819cb2c7-351c-4019-bb2c-d09717df0679)
-
-![smiley](https://github.com/user-attachments/assets/e2ee391b-ec52-4c90-a1e3-eaba3f8aeaca)
-
