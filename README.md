@@ -44,7 +44,10 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`V`**                         |          | Paste the **copied** sprite *(you can move it around with the `mouse` or `arrow keys`)*                           |
 | **`Q` + `E`**                   |          | Reset the `symbol code`/`color` to the **default**                                                                |
 | **`Alt`** (Hold)                | `color`  | Show the **HEX Color** of the hovered symbol                                                                      |
-| **`Alt` + `LMB`**               |          | Move the sprite                                                                                                   |
+| **`Alt` + `MMB`**               |          | Move the sprite                                                                                                   |
+| **`MMB`**                       | `symbol` | Copy the `symbol code` of the hovered symbol                                                                      |
+| **`MMB`**                       | `color`  | Copy the `color` of the hovered symbol                                                                            |
+| **`LCtrl` + `MMB`**             | `color`  | Copy the `background color` of the hovered symbol                                                                 |
 | **`RCtrl` + `Enter`**           |          | Fill the whole frame with the **foreground color**                                                                |
 | **`RCtrl` + `Enter`**           |          | Erase the whole frame                                                                                             |
 | **`Alt` + `F8`/`F9`**           |          | Increase/Decrease the **brightness** of the current frame *(clicking on the percentage will resterize the frame)* |
