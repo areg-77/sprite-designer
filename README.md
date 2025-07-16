@@ -16,6 +16,7 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 
 ![city animation](https://github.com/user-attachments/assets/819cb2c7-351c-4019-bb2c-d09717df0679)
 ![smiley](https://github.com/user-attachments/assets/e2ee391b-ec52-4c90-a1e3-eaba3f8aeaca)
+![waterfall](https://github.com/user-attachments/assets/6f973871-1c43-4ee6-8a24-0e4288cf3843)
 
 ------
 
