@@ -91,7 +91,7 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`RCtrl` + `LShift`/`RShift`** | Scroll to **first**/**last** frame                                           |
 | **`Delete`**                    | Delete the current frame                                                     |
 | **`Insert`**                    | Lock/Unclock the frames so its **impossible** to add/delete a frame          |
-| **`Home`**                      | Add a frame next to the **current** frame                                    |
+| **`End`**                      | Add a frame next to the **current** frame                                    |
 | **`F12`**                       | See the **"ghost"** of the **previous** frame *(recommended for animations)* |
 
 ------
