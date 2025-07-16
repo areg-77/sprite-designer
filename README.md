@@ -74,7 +74,7 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`F10`**             | Switch to **Configuration Mode**                               |
 | **`Q`/`E`**           | Switch between: `C: (collider)`, `T: (trigger)`, `U: (update)` |
 | **`Tab`**             | To set the channel for a `trigger`                             |
-| **`RCtrl` + `Enter`** | Fill the whole frame with the **foreground color**             |
+| **`RCtrl` + `Enter`** | Fill the whole sprite with `C`, `T` or `U`                     |
 
 #### Explanation:
 - **Collider**: areas that **collide** with each other
@@ -101,7 +101,7 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`RCtrl` + `LShift`/`RShift`** | Scroll to **first**/**last** frame                                           |
 | **`Delete`**                    | Delete the current frame                                                     |
 | **`Insert`**                    | Lock/Unclock the frames so its **impossible** to add/delete a frame          |
-| **`End`**                      | Add a frame next to the **current** frame                                    |
+| **`End`**                       | Add a frame next to the **current** frame                                    |
 | **`F12`**                       | See the **"ghost"** of the **previous** frame *(recommended for animations)* |
 
 ------
