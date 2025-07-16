@@ -69,13 +69,20 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 
 ### Configuration Mode
 
-| Key         | Description                                                    |
-| :---------- | :------------------------------------------------------------- |
-| **`F10`**   | Switch to **Configuration Mode**                               |
-| **`Q`/`E`** | Switch between: `C: (collider)`, `T: (trigger)`, `U: (update)` |
-| **`Tab`**   | To set the channel for a `trigger`                             |
+| Key                   | Description                                                    |
+| :-------------------- | :------------------------------------------------------------- |
+| **`F10`**             | Switch to **Configuration Mode**                               |
+| **`Q`/`E`**           | Switch between: `C: (collider)`, `T: (trigger)`, `U: (update)` |
+| **`Tab`**             | To set the channel for a `trigger`                             |
+| **`RCtrl` + `Enter`** | Fill the whole frame with the **foreground color**             |
+
+#### Explanation:
+- **Collider**: areas that **collide** with each other
+- **Trigger**: area that when an element enters it a certain function gets called that you can observe by the channel of that **trigger (1-255)**
+- **Update**: areas that are marked as **"alive"** so that on the next frame they get redrawn
 
 ### NOTE: When in `trigger` mode you need to set a specific `channel (CH)` from `1-255`
+
 
 ------
 
