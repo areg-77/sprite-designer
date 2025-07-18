@@ -22,7 +22,7 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 
 ### Controls
 
-### To navigate in the **Menu** use `arrow keys` and `Enter`/`Esc`
+### To navigate in the **Menu** use `W` `A` `S` `D`/`arrow keys` and `Enter`/`Esc`
 
 ### This app uses `*.spr` for **sprite files**
 
