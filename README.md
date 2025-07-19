@@ -115,4 +115,4 @@ A tool for designing sprites mostly for games but using only the **Terminal**.
 | **`Ctrl` + `Insert`** | Show the full path of the audio file                  |
 | **`RCtrl` + `Space`** | Remove a directory from the beggining of the **path** |
 
-### NOTE: Only `*.wav` files are accepted
+### NOTE: Only `*.wav` files are allowed
